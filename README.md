@@ -1,11 +1,11 @@
 # Assignment 0
 **Due at 4:59pm on Monday, 9/26/2016**
 
-Name: `NAME`
+Name: `Zachary T. Tusing`
 
-ONID ID: `ONID_ID`
+ONID ID: `932-447-110 (Tusingz)
 
-Link to my CS 290 page: `CS290_PAGE_URL`
+Link to my CS 290 page: `http://web.engr.oregonstate.edu/~tusingz/
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
@@ -13,7 +13,7 @@ This assignment is intended to get you up and running with some of the tools we'
 
 Use this link to sign up for CS 290 on Piazza using your ONID email address: https://piazza.com/oregonstate/fall2016/cs290
 
-We'll be using Piazza in this course for Q&A because it's geared towards students helping other students with the class.  Anyone can post or answer a question on Piazza, even anonymously, and the instructor and TAs can revise and endorse student answers, which means you can be confident in the quality of the response.
+'ll be using Piazza in this course for Q&A because it's geared towards students helping other students with the class.  Anyone can post or answer a question on Piazza, even anonymously, and the instructor and TAs can revise and endorse student answers, which means you can be confident in the quality of the response.
 
 You are *strongly encouraged* to post any class-related querstions to Piazza first instead of emailing the instructor or TAs.  You should also get in the habit of checking in to Piazza to answer other students' questions.  This will not only enable everyone to get help quickly, but it will also help you improve your understanding of the material, since teaching someone else is the best way to learn something.
 
